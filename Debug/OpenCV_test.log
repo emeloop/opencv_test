@@ -1,0 +1,2 @@
+﻿  OpenCV_test.cpp
+c:\vs2017\opencv_test\opencv_test.cpp(11): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "pch.h"' をソースに追加しましたか?
